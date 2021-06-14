@@ -1,0 +1,11 @@
+{
+  "serverName" : "OctoCore -  Framework",
+  "serverVersion" : "3",
+  "octopusVersion" : "0.1",
+  "coreModules" : [
+    "database"
+  ],
+  "plugins" : [
+    "example"
+  ]
+}

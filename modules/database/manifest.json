@@ -1,0 +1,6 @@
+{
+  "name" : "Database",
+  "version" : "1.0.0",
+  "replaceable": false,
+  "entryPoint" : "index.lua"
+}

@@ -1,0 +1,5 @@
+{
+  "name" : "exampletwo",
+  "version" : "1.0.0",
+  "entryPoint" : "index.lua"
+}
